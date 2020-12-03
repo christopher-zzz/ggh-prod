@@ -1,4 +1,5 @@
 # ggh-prod
+Interesting papers on resummation in ggH: https://link.springer.com/article/10.1007%2FJHEP01%282016%29056, https://link.springer.com/article/10.1007%2FJHEP01%282016%29090, https://iopscience.iop.org/article/10.1088/1126-6708/2009/04/002, https://link.springer.com/article/10.1007%2FJHEP02%282012%29088, https://arxiv.org/abs/1409.0531
 
 ## Instructions for GEN step
 
